@@ -1,0 +1,14 @@
+{
+  "name": "doctor_appoiment_server",
+  "version": "1.0.0",
+  "description": "Doctor Appoiment Web App using React and JSON server",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "author": "Fayaz",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
